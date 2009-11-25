@@ -5,6 +5,7 @@
  * @copyright 2009 spekkionu <spekkionu@spekkionu.com>
  * @package Options
  * @uses SimpleXML
+ * @license MIT License
  */
 class StatesOptions {
 	

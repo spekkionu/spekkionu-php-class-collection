@@ -6,6 +6,7 @@
  * @copyright 2008
  * @version 1.1 5/28/2008
  * @package Upload
+ * @license MIT License
  */
 /**
  * File Upload Class

@@ -4,6 +4,7 @@
  * @author Jonathan Bernardi
  * @copyright 2009 spekkionu <spekkionu@spekkionu.com>
  * @package Options
+ * @license MIT License
  */
 class CountriesOptions {
 

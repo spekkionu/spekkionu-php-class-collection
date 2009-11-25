@@ -6,6 +6,7 @@
  * @copyright 2009 spekkionu <spekkionu@spekkionu.com>
  * @uses mcrypt extension
  * @package Crypt
+ * @license MIT License
  */
 class Crypt {
 	

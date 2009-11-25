@@ -6,6 +6,7 @@
  * @copyright 2008 Jonathan Bernardi<spekkionu@spekkionu.com>
  * @version 1.0 06/24/2008
  * @package Upload
+ * @license MIT License
  */
 
 /**
