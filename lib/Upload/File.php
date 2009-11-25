@@ -8,9 +8,6 @@
  * @package Upload
  * @license MIT License
  */
-/**
- * File Upload Class
- */
 class Upload_File {
   /**
    * @var string $_file The file to upload.
@@ -185,8 +182,6 @@ class Upload_File {
     $type = trim($type);
     switch ($type) {
       case "overwrite":
-        $this->_overmethod = "over";
-      break;
       case "over":
         $this->_overmethod = "over";
       break;

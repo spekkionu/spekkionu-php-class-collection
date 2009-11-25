@@ -36,6 +36,7 @@ class Upload_Image {
 	 * @param string $file The file to be uploaded.  Can be a relative or absolute path.
 	 */
 	public function __construct($file){
+		$this->_checkExtensions();
 		if(!is_file($file) or !is_readable($file)){
 			throw new Exception("File does not exist or is not readable.");
 		}
@@ -49,6 +50,26 @@ class Upload_Image {
 			"height" => $size[1]
 		);
 		
+	}
+	
+	/**
+	 * Checks that required functions exist
+	 * @return void
+	 */
+	private function _checkExtensions(){
+	  if(!function_exists('getimagesize')) throw new Exception('Function getimagesize does not exist.');
+	  if(!function_exists('pathinfo')) throw new Exception('Function pathinfo does not exist.');
+	  if(!function_exists('imagedestroy')) throw new Exception('Function imagedestroy does not exist.');
+	  if(!function_exists('imagecreatefromgif')) throw new Exception('Function imagecreatefromgif does not exist.');
+	  if(!function_exists('imagecreatefromjpeg')) throw new Exception('Function imagecreatefromjpeg does not exist.');
+	  if(!function_exists('imagecreatefromwbmp')) throw new Exception('Function imagecreatefromwbmp does not exist.');
+	  if(!function_exists('imagecreatefrompng')) throw new Exception('Function imagecreatefrompng does not exist.');
+	  if(!function_exists('imagecreatetruecolor')) throw new Exception('Function imagecreatetruecolor does not exist.');
+	  if(!function_exists('imagegif')) throw new Exception('Function imagegif does not exist.');
+	  if(!function_exists('imagejpeg')) throw new Exception('Function imagejpeg does not exist.');
+	  if(!function_exists('image2wbmp')) throw new Exception('Function image2wbmp does not exist.');
+	  if(!function_exists('imagepng')) throw new Exception('Function imagepng does not exist.');
+	  if(!function_exists('image_type_to_mime_type')) throw new Exception('Function image_type_to_mime_type does not exist.');
 	}
 	
 	/**
@@ -174,6 +195,11 @@ class Upload_Image {
 		return $this->_complete;
 	}
 	
+	/**
+	 * Generates the new filename
+	 * @param string $key
+	 * @return string
+	 */
 	private function _getNewFilename($key){
 		$file = $this->_output[$key];
 		$oldfilename = $file['filename'];
@@ -208,6 +234,11 @@ class Upload_Image {
 		}
 	}
 	
+	/**
+	 * Save the image
+	 * @param string $key
+	 * @return void
+	 */
 	private function _saveImage($key){
 		$output = $this->_output[$key];
 		$type = $this->_imagetype;
@@ -271,6 +302,11 @@ class Upload_Image {
 		imagedestroy($newimage);
 	}
 	
+	/**
+	 * Calculates the size of the new image
+	 * @param string $key
+	 * @return array
+	 */
 	private function _calculateSize($key){
 		$file = $this->_output[$key];
 		$toolarge = false;
@@ -420,10 +456,6 @@ class Upload_Image {
 			"height" => $newheight
 		);
 		return $this->_newsize[$key];
-	}
-	
-	private function _getFilename(){
-		
 	}
 	
 	/**
