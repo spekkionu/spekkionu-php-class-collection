@@ -15,6 +15,11 @@
  */
 class Upload_Image {
 	
+	const OVERWRITE = 'overwrite';
+	const UNIQUE = 'unique';
+	const ERROR = 'error';
+	//const OVERWRITE = 'overwrite';
+	
 	private $_file;
 	private $_output = array();
 	private $_imagetype;
@@ -139,17 +144,17 @@ class Upload_Image {
 	 * If not called overwrite will be used.
 	 * @return Upload_Image
 	 */
-	public function overwriteMethod($method = "overwrite"){
+	public function overwriteMethod($method = self::OVERWRITE){
 		$method = strtolower(trim($method));
 		switch($method){
-			case "overwrite":
-				$this->_overmethod = "overwrite";
+			case self::OVERWRITE:
+				$this->_overmethod = self::OVERWRITE;
 				break;
-			case "unique":
-				$this->_overmethod = "unique";
+			case self::UNIQUE:
+				$this->_overmethod = self::UNIQUE;
 				break;
-			case "error":
-				$this->_overmethod = "error";
+			case self::ERROR:
+				$this->_overmethod = self::ERROR;
 				break;
 			default:
 				throw new Exception("Incorrect parameter for overwriteMethod(). Must be overwrite, unique, or error.");
