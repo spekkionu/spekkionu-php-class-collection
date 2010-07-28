@@ -6,3 +6,4 @@ web.config
 .hgignore
 Thumbs.db
 .tmp_*
+tests/tmp/*
