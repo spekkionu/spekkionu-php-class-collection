@@ -1,6 +1,6 @@
 <?php
 require_once('PHPUnit/Framework/TestCase.php');
-require_once('../lib/Upload/Image.php');
+require_once(dirname(dirname(__FILE__)).'/lib/Upload/Image.php');
 
 class UploadImageTest extends PHPUnit_Framework_TestCase {
 	

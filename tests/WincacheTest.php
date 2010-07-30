@@ -1,6 +1,6 @@
 <?php
 require_once('PHPUnit/Framework/TestCase.php');
-require_once('../lib/Cache/Backend/Wincache.php');
+require_once(dirname(dirname(__FILE__)).'/lib/Cache/Backend/Wincache.php');
 
 class WincacheImageTest extends PHPUnit_Framework_TestCase {
 

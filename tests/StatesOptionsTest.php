@@ -1,6 +1,6 @@
 <?php
 
-require_once '../lib/StatesOptions.php';
+require_once(dirname(dirname(__FILE__)).'/lib/StatesOptions.php');
 
 require_once 'PHPUnit\Framework\TestCase.php';
 

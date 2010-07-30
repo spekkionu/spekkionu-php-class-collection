@@ -1,6 +1,6 @@
 <?php
 require_once('PHPUnit/Framework/TestCase.php');
-require_once('../lib/Crypt.php');
+require_once(dirname(dirname(__FILE__)).'/lib/Crypt.php');
 /**
  * Crypt test case.
  */
