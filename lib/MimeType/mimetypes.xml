@@ -2,806 +2,810 @@
 <mimetypes>
   <item>
     <mime>application/SLA</mime>
-    <ext>stl</ext>
+    <extension>stl</extension>
   </item>
   <item>
     <mime>application/STEP</mime>
-    <ext>step</ext>
+    <extension>step</extension>
   </item>
   <item>
     <mime>application/STEP</mime>
-    <ext>stp</ext>
+    <extension>stp</extension>
   </item>
   <item>
     <mime>application/acad</mime>
-    <ext>dwg</ext>
+    <extension>dwg</extension>
   </item>
   <item>
     <mime>application/andrew-inset</mime>
-    <ext>ez</ext>
+    <extension>ez</extension>
   </item>
   <item>
     <mime>application/clariscad</mime>
-    <ext>ccad</ext>
+    <extension>ccad</extension>
   </item>
   <item>
     <mime>application/drafting</mime>
-    <ext>drw</ext>
+    <extension>drw</extension>
   </item>
   <item>
     <mime>application/dsptype</mime>
-    <ext>tsp</ext>
+    <extension>tsp</extension>
   </item>
   <item>
     <mime>application/dxf</mime>
-    <ext>dxf</ext>
+    <extension>dxf</extension>
   </item>
   <item>
     <mime>application/excel</mime>
-    <ext>xls</ext>
+    <extension>xls</extension>
   </item>
   <item>
     <mime>application/i-deas</mime>
-    <ext>unv</ext>
+    <extension>unv</extension>
   </item>
   <item>
     <mime>application/java-archive</mime>
-    <ext>jar</ext>
+    <extension>jar</extension>
   </item>
   <item>
     <mime>application/mac-binhex40</mime>
-    <ext>hqx</ext>
+    <extension>hqx</extension>
   </item>
   <item>
     <mime>application/mac-compactpro</mime>
-    <ext>cpt</ext>
+    <extension>cpt</extension>
   </item>
   <item>
     <mime>application/vnd.ms-powerpoint</mime>
-    <ext>pot</ext>
+    <extension>pot</extension>
   </item>
   <item>
     <mime>application/vnd.ms-powerpoint</mime>
-    <ext>pps</ext>
+    <extension>pps</extension>
   </item>
   <item>
     <mime>application/vnd.ms-powerpoint</mime>
-    <ext>ppt</ext>
+    <extension>ppt</extension>
   </item>
   <item>
     <mime>application/vnd.ms-powerpoint</mime>
-    <ext>ppz</ext>
+    <extension>ppz</extension>
   </item>
   <item>
     <mime>application/msword</mime>
-    <ext>doc</ext>
+    <extension>doc</extension>
   </item>
   <item>
     <mime>application/octet-stream</mime>
-    <ext>bin</ext>
+    <extension>bin</extension>
   </item>
   <item>
     <mime>application/octet-stream</mime>
-    <ext>class</ext>
+    <extension>class</extension>
   </item>
   <item>
     <mime>application/octet-stream</mime>
-    <ext>dms</ext>
+    <extension>dms</extension>
   </item>
   <item>
     <mime>application/octet-stream</mime>
-    <ext>exe</ext>
+    <extension>exe</extension>
   </item>
   <item>
     <mime>application/octet-stream</mime>
-    <ext>lha</ext>
+    <extension>lha</extension>
   </item>
   <item>
     <mime>application/octet-stream</mime>
-    <ext>lzh</ext>
+    <extension>lzh</extension>
   </item>
   <item>
     <mime>application/oda</mime>
-    <ext>oda</ext>
+    <extension>oda</extension>
   </item>
   <item>
     <mime>application/ogg</mime>
-    <ext>ogg</ext>
+    <extension>ogg</extension>
   </item>
   <item>
     <mime>application/ogg</mime>
-    <ext>ogm</ext>
+    <extension>ogm</extension>
   </item>
   <item>
     <mime>application/pdf</mime>
-    <ext>pdf</ext>
+    <extension>pdf</extension>
   </item>
   <item>
     <mime>application/pgp</mime>
-    <ext>pgp</ext>
+    <extension>pgp</extension>
   </item>
   <item>
     <mime>application/postscript</mime>
-    <ext>ai</ext>
+    <extension>ai</extension>
   </item>
   <item>
     <mime>application/postscript</mime>
-    <ext>eps</ext>
+    <extension>eps</extension>
   </item>
   <item>
     <mime>application/postscript</mime>
-    <ext>ps</ext>
+    <extension>ps</extension>
   </item>
   <item>
     <mime>application/pro_eng</mime>
-    <ext>prt</ext>
+    <extension>prt</extension>
   </item>
   <item>
     <mime>application/rtf</mime>
-    <ext>rtf</ext>
+    <extension>rtf</extension>
   </item>
   <item>
     <mime>application/set</mime>
-    <ext>set</ext>
+    <extension>set</extension>
   </item>
   <item>
     <mime>application/smil</mime>
-    <ext>smi</ext>
+    <extension>smi</extension>
   </item>
   <item>
     <mime>application/smil</mime>
-    <ext>smil</ext>
+    <extension>smil</extension>
   </item>
   <item>
     <mime>application/solids</mime>
-    <ext>sol</ext>
+    <extension>sol</extension>
   </item>
   <item>
     <mime>application/vda</mime>
-    <ext>vda</ext>
+    <extension>vda</extension>
   </item>
   <item>
     <mime>application/vnd.mif</mime>
-    <ext>mif</ext>
+    <extension>mif</extension>
   </item>
   <item>
     <mime>application/vnd.ms-excel</mime>
-    <ext>xlc</ext>
+    <extension>xlc</extension>
   </item>
   <item>
     <mime>application/vnd.ms-excel</mime>
-    <ext>xll</ext>
+    <extension>xll</extension>
   </item>
   <item>
     <mime>application/vnd.ms-excel</mime>
-    <ext>xlm</ext>
+    <extension>xlm</extension>
   </item>
   <item>
     <mime>application/vnd.ms-excel</mime>
-    <ext>xls</ext>
+    <extension>xls</extension>
   </item>
   <item>
     <mime>application/vnd.ms-excel</mime>
-    <ext>xlw</ext>
+    <extension>xlw</extension>
   </item>
   <item>
     <mime>application/vnd.rim.cod</mime>
-    <ext>cod</ext>
+    <extension>cod</extension>
   </item>
   <item>
     <mime>application/x-arj-compressed</mime>
-    <ext>arj</ext>
+    <extension>arj</extension>
   </item>
   <item>
     <mime>application/x-bcpio</mime>
-    <ext>bcpio</ext>
+    <extension>bcpio</extension>
   </item>
   <item>
     <mime>application/x-cdlink</mime>
-    <ext>vcd</ext>
+    <extension>vcd</extension>
   </item>
   <item>
     <mime>application/x-chess-pgn</mime>
-    <ext>pgn</ext>
+    <extension>pgn</extension>
   </item>
   <item>
     <mime>application/x-cpio</mime>
-    <ext>cpio</ext>
+    <extension>cpio</extension>
   </item>
   <item>
     <mime>application/x-csh</mime>
-    <ext>csh</ext>
+    <extension>csh</extension>
   </item>
   <item>
     <mime>application/x-debian-package</mime>
-    <ext>deb</ext>
+    <extension>deb</extension>
   </item>
   <item>
     <mime>application/x-director</mime>
-    <ext>dcr</ext>
+    <extension>dcr</extension>
   </item>
   <item>
     <mime>application/x-director</mime>
-    <ext>dir</ext>
+    <extension>dir</extension>
   </item>
   <item>
     <mime>application/x-director</mime>
-    <ext>dxr</ext>
+    <extension>dxr</extension>
   </item>
   <item>
     <mime>application/x-dvi</mime>
-    <ext>dvi</ext>
+    <extension>dvi</extension>
   </item>
   <item>
     <mime>application/x-freelance</mime>
-    <ext>pre</ext>
+    <extension>pre</extension>
   </item>
   <item>
     <mime>application/x-futuresplash</mime>
-    <ext>spl</ext>
+    <extension>spl</extension>
   </item>
   <item>
     <mime>application/x-gtar</mime>
-    <ext>gtar</ext>
+    <extension>gtar</extension>
   </item>
   <item>
     <mime>application/x-gunzip</mime>
-    <ext>gz</ext>
+    <extension>gz</extension>
   </item>
   <item>
     <mime>application/x-gzip</mime>
-    <ext>gz</ext>
+    <extension>gz</extension>
   </item>
   <item>
     <mime>application/x-hdf</mime>
-    <ext>hdf</ext>
+    <extension>hdf</extension>
   </item>
   <item>
     <mime>application/x-ipix</mime>
-    <ext>ipx</ext>
+    <extension>ipx</extension>
   </item>
   <item>
     <mime>application/x-ipscript</mime>
-    <ext>ips</ext>
+    <extension>ips</extension>
   </item>
   <item>
     <mime>application/x-javascript</mime>
-    <ext>js</ext>
+    <extension>js</extension>
   </item>
   <item>
     <mime>application/x-koan</mime>
-    <ext>skd</ext>
+    <extension>skd</extension>
   </item>
   <item>
     <mime>application/x-koan</mime>
-    <ext>skm</ext>
+    <extension>skm</extension>
   </item>
   <item>
     <mime>application/x-koan</mime>
-    <ext>skp</ext>
+    <extension>skp</extension>
   </item>
   <item>
     <mime>application/x-koan</mime>
-    <ext>skt</ext>
+    <extension>skt</extension>
   </item>
   <item>
     <mime>application/x-latex</mime>
-    <ext>latex</ext>
+    <extension>latex</extension>
   </item>
   <item>
     <mime>application/x-lisp</mime>
-    <ext>lsp</ext>
+    <extension>lsp</extension>
   </item>
   <item>
     <mime>application/x-lotusscreencam</mime>
-    <ext>scm</ext>
+    <extension>scm</extension>
   </item>
   <item>
     <mime>application/x-mif</mime>
-    <ext>mif</ext>
+    <extension>mif</extension>
   </item>
   <item>
     <mime>application/x-msdos-program</mime>
-    <ext>bat</ext>
+    <extension>bat</extension>
   </item>
   <item>
     <mime>application/x-msdos-program</mime>
-    <ext>com</ext>
+    <extension>com</extension>
   </item>
   <item>
     <mime>application/x-msdos-program</mime>
-    <ext>exe</ext>
+    <extension>exe</extension>
   </item>
   <item>
     <mime>application/x-netcdf</mime>
-    <ext>cdf</ext>
+    <extension>cdf</extension>
   </item>
   <item>
     <mime>application/x-netcdf</mime>
-    <ext>nc</ext>
+    <extension>nc</extension>
   </item>
   <item>
     <mime>application/x-perl</mime>
-    <ext>pl</ext>
+    <extension>pl</extension>
   </item>
   <item>
     <mime>application/x-perl</mime>
-    <ext>pm</ext>
+    <extension>pm</extension>
   </item>
   <item>
     <mime>application/x-rar-compressed</mime>
-    <ext>rar</ext>
+    <extension>rar</extension>
   </item>
   <item>
     <mime>application/x-sh</mime>
-    <ext>sh</ext>
+    <extension>sh</extension>
   </item>
   <item>
     <mime>application/x-shar</mime>
-    <ext>shar</ext>
+    <extension>shar</extension>
   </item>
   <item>
     <mime>application/x-shockwave-flash</mime>
-    <ext>swf</ext>
+    <extension>swf</extension>
   </item>
   <item>
     <mime>application/x-stuffit</mime>
-    <ext>sit</ext>
+    <extension>sit</extension>
   </item>
   <item>
     <mime>application/x-sv4cpio</mime>
-    <ext>sv4cpio</ext>
+    <extension>sv4cpio</extension>
   </item>
   <item>
     <mime>application/x-sv4crc</mime>
-    <ext>sv4crc</ext>
+    <extension>sv4crc</extension>
   </item>
   <item>
     <mime>application/x-tar-gz</mime>
-    <ext>tar.gz</ext>
+    <extension>tar.gz</extension>
   </item>
   <item>
     <mime>application/x-tar-gz</mime>
-    <ext>tgz</ext>
+    <extension>tgz</extension>
   </item>
   <item>
     <mime>application/x-tar</mime>
-    <ext>tar</ext>
+    <extension>tar</extension>
   </item>
   <item>
     <mime>application/x-tcl</mime>
-    <ext>tcl</ext>
+    <extension>tcl</extension>
   </item>
   <item>
     <mime>application/x-tex</mime>
-    <ext>tex</ext>
+    <extension>tex</extension>
   </item>
   <item>
     <mime>application/x-texinfo</mime>
-    <ext>texi</ext>
+    <extension>texi</extension>
   </item>
   <item>
     <mime>application/x-texinfo</mime>
-    <ext>texinfo</ext>
+    <extension>texinfo</extension>
   </item>
   <item>
     <mime>application/x-troff-man</mime>
-    <ext>man</ext>
+    <extension>man</extension>
   </item>
   <item>
     <mime>application/x-troff-me</mime>
-    <ext>me</ext>
+    <extension>me</extension>
   </item>
   <item>
     <mime>application/x-troff-ms</mime>
-    <ext>ms</ext>
+    <extension>ms</extension>
   </item>
   <item>
     <mime>application/x-troff</mime>
-    <ext>roff</ext>
+    <extension>roff</extension>
   </item>
   <item>
     <mime>application/x-troff</mime>
-    <ext>t</ext>
+    <extension>t</extension>
   </item>
   <item>
     <mime>application/x-troff</mime>
-    <ext>tr</ext>
+    <extension>tr</extension>
   </item>
   <item>
     <mime>application/x-ustar</mime>
-    <ext>ustar</ext>
+    <extension>ustar</extension>
   </item>
   <item>
     <mime>application/x-wais-source</mime>
-    <ext>src</ext>
+    <extension>src</extension>
   </item>
   <item>
     <mime>application/x-zip-compressed</mime>
-    <ext>zip</ext>
+    <extension>zip</extension>
   </item>
   <item>
     <mime>application/zip</mime>
-    <ext>zip</ext>
+    <extension>zip</extension>
   </item>
   <item>
     <mime>audio/TSP-audio</mime>
-    <ext>tsi</ext>
+    <extension>tsi</extension>
   </item>
   <item>
     <mime>audio/basic</mime>
-    <ext>au</ext>
+    <extension>au</extension>
   </item>
   <item>
     <mime>audio/basic</mime>
-    <ext>snd</ext>
+    <extension>snd</extension>
   </item>
   <item>
     <mime>audio/midi</mime>
-    <ext>kar</ext>
+    <extension>kar</extension>
   </item>
   <item>
     <mime>audio/midi</mime>
-    <ext>mid</ext>
+    <extension>mid</extension>
   </item>
   <item>
     <mime>audio/midi</mime>
-    <ext>midi</ext>
+    <extension>midi</extension>
   </item>
   <item>
     <mime>audio/mpeg</mime>
-    <ext>mp2</ext>
+    <extension>mp2</extension>
   </item>
   <item>
     <mime>audio/mpeg</mime>
-    <ext>mp3</ext>
+    <extension>mp3</extension>
   </item>
   <item>
     <mime>audio/mpeg</mime>
-    <ext>mpga</ext>
+    <extension>mpga</extension>
   </item>
   <item>
     <mime>audio/ulaw</mime>
-    <ext>au</ext>
+    <extension>au</extension>
   </item>
   <item>
     <mime>audio/x-aiff</mime>
-    <ext>aif</ext>
+    <extension>aif</extension>
   </item>
   <item>
     <mime>audio/x-aiff</mime>
-    <ext>aifc</ext>
+    <extension>aifc</extension>
   </item>
   <item>
     <mime>audio/x-aiff</mime>
-    <ext>aiff</ext>
+    <extension>aiff</extension>
   </item>
   <item>
     <mime>audio/x-mpegurl</mime>
-    <ext>m3u</ext>
+    <extension>m3u</extension>
   </item>
   <item>
     <mime>audio/x-ms-wax</mime>
-    <ext>wax</ext>
+    <extension>wax</extension>
   </item>
   <item>
     <mime>audio/x-ms-wma</mime>
-    <ext>wma</ext>
+    <extension>wma</extension>
   </item>
   <item>
     <mime>audio/x-pn-realaudio-plugin</mime>
-    <ext>rpm</ext>
+    <extension>rpm</extension>
   </item>
   <item>
     <mime>audio/x-pn-realaudio</mime>
-    <ext>ram</ext>
+    <extension>ram</extension>
   </item>
   <item>
     <mime>audio/x-pn-realaudio</mime>
-    <ext>rm</ext>
+    <extension>rm</extension>
   </item>
   <item>
     <mime>audio/x-realaudio</mime>
-    <ext>ra</ext>
+    <extension>ra</extension>
   </item>
   <item>
     <mime>audio/x-wav</mime>
-    <ext>wav</ext>
+    <extension>wav</extension>
   </item>
   <item>
     <mime>chemical/x-pdb</mime>
-    <ext>pdb</ext>
+    <extension>pdb</extension>
   </item>
   <item>
     <mime>chemical/x-pdb</mime>
-    <ext>xyz</ext>
+    <extension>xyz</extension>
   </item>
   <item>
     <mime>image/cmu-raster</mime>
-    <ext>ras</ext>
+    <extension>ras</extension>
   </item>
   <item>
     <mime>image/gif</mime>
-    <ext>gif</ext>
+    <extension>gif</extension>
   </item>
   <item>
     <mime>image/ief</mime>
-    <ext>ief</ext>
+    <extension>ief</extension>
   </item>
   <item>
     <mime>image/jpeg</mime>
-    <ext>jpe</ext>
+    <extension>jpe</extension>
   </item>
   <item>
     <mime>image/jpeg</mime>
-    <ext>jpeg</ext>
+    <extension>jpeg</extension>
   </item>
   <item>
     <mime>image/jpeg</mime>
-    <ext>jpg</ext>
+    <extension>jpg</extension>
   </item>
   <item>
     <mime>image/png</mime>
-    <ext>png</ext>
+    <extension>png</extension>
   </item>
   <item>
     <mime>image/tiff</mime>
-    <ext>tif tiff</ext>
+    <extension>tif tiff</extension>
   </item>
   <item>
     <mime>image/tiff</mime>
-    <ext>tif</ext>
+    <extension>tif</extension>
   </item>
   <item>
     <mime>image/tiff</mime>
-    <ext>tiff</ext>
+    <extension>tiff</extension>
   </item>
   <item>
     <mime>image/x-cmu-raster</mime>
-    <ext>ras</ext>
+    <extension>ras</extension>
   </item>
   <item>
     <mime>image/x-portable-anymap</mime>
-    <ext>pnm</ext>
+    <extension>pnm</extension>
   </item>
   <item>
     <mime>image/x-portable-bitmap</mime>
-    <ext>pbm</ext>
+    <extension>pbm</extension>
   </item>
   <item>
     <mime>image/x-portable-graymap</mime>
-    <ext>pgm</ext>
+    <extension>pgm</extension>
   </item>
   <item>
     <mime>image/x-portable-pixmap</mime>
-    <ext>ppm</ext>
+    <extension>ppm</extension>
   </item>
   <item>
     <mime>image/x-rgb</mime>
-    <ext>rgb</ext>
+    <extension>rgb</extension>
   </item>
   <item>
     <mime>image/x-xbitmap</mime>
-    <ext>xbm</ext>
+    <extension>xbm</extension>
   </item>
   <item>
     <mime>image/x-xpixmap</mime>
-    <ext>xpm</ext>
+    <extension>xpm</extension>
   </item>
   <item>
     <mime>image/x-xwindowdump</mime>
-    <ext>xwd</ext>
+    <extension>xwd</extension>
   </item>
   <item>
     <mime>model/iges</mime>
-    <ext>iges</ext>
+    <extension>iges</extension>
   </item>
   <item>
     <mime>model/iges</mime>
-    <ext>igs</ext>
+    <extension>igs</extension>
   </item>
   <item>
     <mime>model/mesh</mime>
-    <ext>mesh</ext>
+    <extension>mesh</extension>
   </item>
   <item>
     <mime>model/mesh</mime>
-    <ext>msh</ext>
+    <extension>msh</extension>
   </item>
   <item>
     <mime>model/mesh</mime>
-    <ext>silo</ext>
+    <extension>silo</extension>
   </item>
   <item>
     <mime>model/vrml</mime>
-    <ext>vrml</ext>
+    <extension>vrml</extension>
   </item>
   <item>
     <mime>model/vrml</mime>
-    <ext>wrl</ext>
+    <extension>wrl</extension>
   </item>
   <item>
     <mime>text/css</mime>
-    <ext>css</ext>
+    <extension>css</extension>
   </item>
   <item>
     <mime>text/html</mime>
-    <ext>htm</ext>
+    <extension>htm</extension>
   </item>
   <item>
     <mime>text/html</mime>
-    <ext>html htm</ext>
+    <extension>html htm</extension>
   </item>
   <item>
     <mime>text/html</mime>
-    <ext>html</ext>
+    <extension>html</extension>
+  </item>
+  <item>
+    <mime>application/x-httpd-php</mime>
+    <extension>php</extension>
   </item>
   <item>
     <mime>text/plain</mime>
-    <ext>asc txt</ext>
+    <extension>asc txt</extension>
   </item>
   <item>
     <mime>text/plain</mime>
-    <ext>asc</ext>
+    <extension>asc</extension>
   </item>
   <item>
     <mime>text/plain</mime>
-    <ext>c</ext>
+    <extension>c</extension>
   </item>
   <item>
     <mime>text/plain</mime>
-    <ext>cc</ext>
+    <extension>cc</extension>
   </item>
   <item>
     <mime>text/plain</mime>
-    <ext>f90</ext>
+    <extension>f90</extension>
   </item>
   <item>
     <mime>text/plain</mime>
-    <ext>f</ext>
+    <extension>f</extension>
   </item>
   <item>
     <mime>text/plain</mime>
-    <ext>h</ext>
+    <extension>h</extension>
   </item>
   <item>
     <mime>text/plain</mime>
-    <ext>hh</ext>
+    <extension>hh</extension>
   </item>
   <item>
     <mime>text/plain</mime>
-    <ext>m</ext>
+    <extension>m</extension>
   </item>
   <item>
     <mime>text/plain</mime>
-    <ext>txt</ext>
+    <extension>txt</extension>
   </item>
   <item>
     <mime>text/richtext</mime>
-    <ext>rtx</ext>
+    <extension>rtx</extension>
   </item>
   <item>
     <mime>text/rtf</mime>
-    <ext>rtf</ext>
+    <extension>rtf</extension>
   </item>
   <item>
     <mime>text/sgml</mime>
-    <ext>sgm</ext>
+    <extension>sgm</extension>
   </item>
   <item>
     <mime>text/sgml</mime>
-    <ext>sgml</ext>
+    <extension>sgml</extension>
   </item>
   <item>
     <mime>text/tab-separated-values</mime>
-    <ext>tsv</ext>
+    <extension>tsv</extension>
   </item>
   <item>
     <mime>text/vnd.sun.j2me.app-descriptor</mime>
-    <ext>jad</ext>
+    <extension>jad</extension>
   </item>
   <item>
     <mime>text/x-setext</mime>
-    <ext>etx</ext>
+    <extension>etx</extension>
   </item>
   <item>
     <mime>text/xml</mime>
-    <ext>xml</ext>
+    <extension>xml</extension>
   </item>
   <item>
     <mime>video/dl</mime>
-    <ext>dl</ext>
+    <extension>dl</extension>
   </item>
   <item>
     <mime>video/fli</mime>
-    <ext>fli</ext>
+    <extension>fli</extension>
   </item>
   <item>
     <mime>video/flv</mime>
-    <ext>flv</ext>
+    <extension>flv</extension>
   </item>
   <item>
     <mime>video/gl</mime>
-    <ext>gl</ext>
+    <extension>gl</extension>
   </item>
   <item>
     <mime>video/mpeg</mime>
-    <ext>mp2</ext>
+    <extension>mp2</extension>
   </item>
   <item>
     <mime>video/mpeg</mime>
-    <ext>mpe</ext>
+    <extension>mpe</extension>
   </item>
   <item>
     <mime>video/mpeg</mime>
-    <ext>mpeg</ext>
+    <extension>mpeg</extension>
   </item>
   <item>
     <mime>video/mpeg</mime>
-    <ext>mpg</ext>
+    <extension>mpg</extension>
   </item>
   <item>
     <mime>video/quicktime</mime>
-    <ext>mov</ext>
+    <extension>mov</extension>
   </item>
   <item>
     <mime>video/quicktime</mime>
-    <ext>qt</ext>
+    <extension>qt</extension>
   </item>
   <item>
     <mime>video/vnd.vivo</mime>
-    <ext>viv</ext>
+    <extension>viv</extension>
   </item>
   <item>
     <mime>video/vnd.vivo</mime>
-    <ext>vivo</ext>
+    <extension>vivo</extension>
   </item>
   <item>
     <mime>video/x-fli</mime>
-    <ext>fli</ext>
+    <extension>fli</extension>
   </item>
   <item>
     <mime>video/x-ms-asf</mime>
-    <ext>asf</ext>
+    <extension>asf</extension>
   </item>
   <item>
     <mime>video/x-ms-asx</mime>
-    <ext>asx</ext>
+    <extension>asx</extension>
   </item>
   <item>
     <mime>video/x-ms-wmv</mime>
-    <ext>wmv</ext>
+    <extension>wmv</extension>
   </item>
   <item>
     <mime>video/x-ms-wmx</mime>
-    <ext>wmx</ext>
+    <extension>wmx</extension>
   </item>
   <item>
     <mime>video/x-ms-wvx</mime>
-    <ext>wvx</ext>
+    <extension>wvx</extension>
   </item>
   <item>
     <mime>video/x-msvideo</mime>
-    <ext>avi</ext>
+    <extension>avi</extension>
   </item>
   <item>
     <mime>video/x-sgi-movie</mime>
-    <ext>movie</ext>
+    <extension>movie</extension>
   </item>
   <item>
     <mime>www/mime</mime>
-    <ext>mime</ext>
+    <extension>mime</extension>
   </item>
   <item>
     <mime>x-conference/x-cooltalk</mime>
-    <ext>ice</ext>
+    <extension>ice</extension>
   </item>
   <item>
     <mime>x-world/x-vrml</mime>
-    <ext>vrm</ext>
+    <extension>vrm</extension>
   </item>
   <item>
     <mime>x-world/x-vrml</mime>
-    <ext>vrml</ext>
+    <extension>vrml</extension>
   </item>
 </mimetypes>
